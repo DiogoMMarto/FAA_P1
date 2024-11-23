@@ -1,0 +1,38 @@
+III. PROJECT ASSESMENT (25 % of the final grade)
+1. Report. The project is evaluated based on a submitted report (IEEE Latex format). The work done
+by each student has to be explicitly specified.
+All project’s files (pdf and Latex files of the report, the presentation slides and the code
+implementing the algorithms) are submitted to the elearning.ua.pt page of the course in section
+SUBMISSION – PROJECT 1 in a compressed format having the following name:
+P1_ML2024_XXXXX_YYYYY (where XXXXX and YYYYY are substituted by the student number of each
+student.
+2. Oral presentation of the report in class (about 10-15 min.).
+IV. Evaluation criteria (total score 20)
+1. Report content (12):
+ Data description and preprocessing (if necessary normalization, feature selection,
+transformation, etc.). Motivation for choosing the particular problem.
+ Data visualization (histograms, box plots, other plots).
+ Short description of the implemented ML models.
+ Model training (data splitting – train, validate, test, k-fold Cross validation). Visualize graphically
+the cost function trajectory over iterations. Training with regularized or non-regularized cost
+function.
+ Model hyper-parameter selection – systematic approach instead of randomly chosen values.
+ For a classification problem, you need to present the confusion Matrix (accuracy, precision,
+recall, F1 score, etc.).
+ Performance comparison between the models.
+ Results in graphical or table formats.
+ Conclusions.
+ Problem complexity.
+2. Report formatting (2) :
+ IEEE Latex format, affiliation (Department, University, subject, course instructor), abstract,
+keywords, work load per student.
+ Sufficiently detailed report.
+ References, reference citation in the report.
+ Clear figures (title, legends, axis labels) and tables referred in the text.
+3. Oral presentation (3)
+ Slide Organization, slide numbers, affiliation.
+ Clear and convincing presentation by both students.
+4. Novelty and contributions (3)
+ Compare your solution with the works of other authors (published references) , try to propose
+a better solution, e.g. improve the performance of the ML model in solving the problem you work
+with. 
