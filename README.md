@@ -7,5 +7,5 @@ Same contributions for both members:
 
 ## Info 
 
-Our project was written using a tool called Typst an modern alternative to LaTeX.
+Our report was written using a tool called Typst an modern alternative to LaTeX.
 You can access Typst online via https://typst.app/ .
